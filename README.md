@@ -92,7 +92,7 @@ A data analysis project exploring factors that influence marital satisfaction th
 
 ---
 ## 📫 Let’s Connect
-- GitHub: [github.com/gloriamfor](https://github.com/gloriamafor)  
-- LinkedIn: (https://www.linkedin.com/in/gmafor/) 
+- GitHub: [github.com/gloriamafor](https://github.com/gloriamafor)  
+- LinkedIn: [linkedin.com/gmafor](https://www.linkedin.com/in/gmafor/) 
 
 Thanks for stopping by! 😊
