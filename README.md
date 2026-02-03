@@ -1,6 +1,6 @@
 # Hi, I’m Gloria Mafor 👋🏽
 
-I’m a Computer Science graduate with a strong interest in **software development, data-driven applications, and cloud technologies**. I enjoy building practical projects that solve real-world problems while continuously strengthening my technical and problem-solving skills.
+I’m a Computer Science graduate with a strong interest in **data engineering, software development, and cloud technologies**. I enjoy building practical projects that solve real-world problems while continuously strengthening my technical and problem-solving skills.
 
 My work spans **AI-powered applications, data analysis, full-stack development, and cloud-hosted solutions**, with hands-on experience deploying real projects using AWS.
 
