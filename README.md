@@ -54,14 +54,6 @@ A logic-based food recommendation application that suggests meals based on user 
 
 ---
 
-### 🌐 VibeNet
-A social-style application designed to connect users based on shared interests and “vibes,” exploring database design, user interaction, and scalable backend logic.
-
-**Tech:** Python, Flask, SQL, HTML, CSS, JavaScript  
-➡️ Focus: Full-stack concepts, database-driven applications
-
----
-
 ### 🌸 Whitman Behavioral and Wellness (Client Website)
 A client-focused website built and deployed using **WordPress on AWS Lightsail**, providing a real-world example of cloud hosting, CMS management, and frontend customization.
 
